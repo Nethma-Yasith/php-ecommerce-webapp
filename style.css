@@ -1,0 +1,16 @@
+.logo {
+    background-image: url("assets/images/logo/lubov.png");
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-logo1{
+    background-image: url("assets/images/logo/lubovlogo.png");
+    height: 300px;
+    /* height: 100px; */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
